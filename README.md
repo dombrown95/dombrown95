@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/401d55d1-abae-4cb7-95ea-a33c2e19d4b6" />## Hi! I'm Dom Brown 👋
+## Hi! I'm Dom Brown 👋
 ---
 
 ## 👨‍💻 About me 
